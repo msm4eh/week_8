@@ -1,5 +1,6 @@
 # %%
-# =============================================================================
+
+# ============================================================================
 # Regression Overview — In-Class Live Coding Example
 # Dataset: Facebook Performance Metrics (UCI ML Repo ID 368)
 # Topics:
